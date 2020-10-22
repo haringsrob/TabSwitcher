@@ -1,0 +1,5 @@
+[
+  { "caption": "TabSwitcher: Switch tabs",
+    "command": "switch_tabs",
+  }
+]
